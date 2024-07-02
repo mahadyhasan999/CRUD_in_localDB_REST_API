@@ -46,3 +46,10 @@ http://localhost/api_data/api/update.php
 
 Test Delete API:
 http://localhost/api_data/api/delete.php
+
+App Preview:
+![HomePage](https://github.com/mahadyhasan999/CRUD_in_localDB_REST_API/assets/61708989/d56c096c-688f-4746-8756-b11434d715d4)
+![CreatePage](https://github.com/mahadyhasan999/CRUD_in_localDB_REST_API/assets/61708989/e21256fe-75f6-4c23-b921-88120a5d8dbe)
+![EditPage](https://github.com/mahadyhasan999/CRUD_in_localDB_REST_API/assets/61708989/2bca42dd-eb6a-4959-a081-e767944b19be)
+![Database](https://github.com/mahadyhasan999/CRUD_in_localDB_REST_API/assets/61708989/fb0dc41c-5014-4a1d-af0b-6e221faa89cf)
+
