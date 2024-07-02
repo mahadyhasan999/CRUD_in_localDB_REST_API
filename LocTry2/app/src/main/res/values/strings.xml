@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LocTry2</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+    <string name="image">Image</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="create">Create</string>
+    <string name="delete">Delete</string>
+    <string name="refresh">Refresh</string>
+</resources>
